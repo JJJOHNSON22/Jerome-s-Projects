@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\bin\Debug\VolumeOfAHemisphereE1A.exe.config
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\bin\Debug\VolumeOfAHemisphereE1A.exe
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\bin\Debug\VolumeOfAHemisphereE1A.pdb
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\obj\Debug\VolumeOfAHemisphereE1A.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\obj\Debug\VolumeOfAHemisphereE1A.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\obj\Debug\VolumeOfAHemisphereE1A.exe
+C:\Users\Jerome\source\repos\VolumeOfAHemisphereE1A\VolumeOfAHemisphereE1A\obj\Debug\VolumeOfAHemisphereE1A.pdb

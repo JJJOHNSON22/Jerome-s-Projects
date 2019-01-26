@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\Jerome\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

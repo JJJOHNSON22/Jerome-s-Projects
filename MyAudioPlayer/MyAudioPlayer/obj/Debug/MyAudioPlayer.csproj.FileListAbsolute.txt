@@ -1,0 +1,15 @@
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.exe.config
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.exe
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.pdb
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.ResolveComReference.cache
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Properties.Resources.resources
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.GenerateResource.cache
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.exe
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.pdb
+C:\Users\Jerome\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.JeromeJohnsonAudioPlayer.resources

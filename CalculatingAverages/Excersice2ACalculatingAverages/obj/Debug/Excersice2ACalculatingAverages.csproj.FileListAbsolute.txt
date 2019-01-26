@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\bin\Debug\Excersice2ACalculatingAverages.exe.config
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\bin\Debug\Excersice2ACalculatingAverages.exe
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\bin\Debug\Excersice2ACalculatingAverages.pdb
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\obj\Debug\Excersice2ACalculatingAverages.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\obj\Debug\Excersice2ACalculatingAverages.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\obj\Debug\Excersice2ACalculatingAverages.exe
+C:\Users\Jerome\source\repos\Excersice2ACalculatingAverages\Excersice2ACalculatingAverages\obj\Debug\Excersice2ACalculatingAverages.pdb

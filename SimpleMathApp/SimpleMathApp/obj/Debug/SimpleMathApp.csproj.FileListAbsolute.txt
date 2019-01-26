@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\bin\Debug\SimpleMathApp.exe.config
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\bin\Debug\SimpleMathApp.exe
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\bin\Debug\SimpleMathApp.pdb
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\obj\Debug\SimpleMathApp.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\obj\Debug\SimpleMathApp.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\obj\Debug\SimpleMathApp.exe
+C:\Users\Jerome\source\repos\SimpleMathApp\SimpleMathApp\obj\Debug\SimpleMathApp.pdb

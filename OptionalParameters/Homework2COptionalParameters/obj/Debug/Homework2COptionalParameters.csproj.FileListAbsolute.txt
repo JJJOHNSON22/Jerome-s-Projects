@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\bin\Debug\Homework2COptionalParameters.exe.config
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\bin\Debug\Homework2COptionalParameters.exe
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\bin\Debug\Homework2COptionalParameters.pdb
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\obj\Debug\Homework2COptionalParameters.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\obj\Debug\Homework2COptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\obj\Debug\Homework2COptionalParameters.exe
+C:\Users\Jerome\source\repos\Homework2COptionalParameters\Homework2COptionalParameters\obj\Debug\Homework2COptionalParameters.pdb

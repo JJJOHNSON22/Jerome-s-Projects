@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\bin\Debug\InClassSumOf2Times3.exe.config
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\bin\Debug\InClassSumOf2Times3.exe
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\bin\Debug\InClassSumOf2Times3.pdb
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\obj\Debug\InClassSumOf2Times3.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\obj\Debug\InClassSumOf2Times3.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\obj\Debug\InClassSumOf2Times3.exe
+C:\Users\Jerome\source\repos\InClassSumOf2Times3\InClassSumOf2Times3\obj\Debug\InClassSumOf2Times3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\bin\Debug\ErrorsandExceptions.exe.config
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\bin\Debug\ErrorsandExceptions.exe
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\bin\Debug\ErrorsandExceptions.pdb
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.exe
+C:\Users\Jerome\source\repos\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.pdb

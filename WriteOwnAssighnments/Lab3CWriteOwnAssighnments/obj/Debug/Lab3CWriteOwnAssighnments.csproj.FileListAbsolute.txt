@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\bin\Debug\Lab3CWriteOwnAssighnments.exe.config
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\bin\Debug\Lab3CWriteOwnAssighnments.exe
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\bin\Debug\Lab3CWriteOwnAssighnments.pdb
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\obj\Debug\Lab3CWriteOwnAssighnments.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\obj\Debug\Lab3CWriteOwnAssighnments.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\obj\Debug\Lab3CWriteOwnAssighnments.exe
+C:\Users\Jerome\source\repos\Lab3CWriteOwnAssighnments\Lab3CWriteOwnAssighnments\obj\Debug\Lab3CWriteOwnAssighnments.pdb

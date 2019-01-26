@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\obj\Debug\AreaOfTriangleE1A.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\obj\Debug\AreaOfTriangleE1A.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\bin\Debug\AreaOfTriangleE1A.exe.config
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\bin\Debug\AreaOfTriangleE1A.exe
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\bin\Debug\AreaOfTriangleE1A.pdb
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\obj\Debug\AreaOfTriangleE1A.exe
+C:\Users\Jerome\source\repos\AreaOfTriangleE1A\AreaOfTriangleE1A\obj\Debug\AreaOfTriangleE1A.pdb

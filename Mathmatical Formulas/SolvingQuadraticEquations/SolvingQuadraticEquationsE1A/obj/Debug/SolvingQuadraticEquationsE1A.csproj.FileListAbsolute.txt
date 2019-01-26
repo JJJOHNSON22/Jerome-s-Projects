@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\bin\Debug\SolvingQuadraticEquationsE1A.exe.config
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\bin\Debug\SolvingQuadraticEquationsE1A.exe
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\bin\Debug\SolvingQuadraticEquationsE1A.pdb
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\obj\Debug\SolvingQuadraticEquationsE1A.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\obj\Debug\SolvingQuadraticEquationsE1A.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\obj\Debug\SolvingQuadraticEquationsE1A.exe
+C:\Users\Jerome\source\repos\SolvingQuadraticEquationsE1A\SolvingQuadraticEquationsE1A\obj\Debug\SolvingQuadraticEquationsE1A.pdb

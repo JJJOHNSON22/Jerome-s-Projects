@@ -1,0 +1,14 @@
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\bin\Debug\TextHello.exe.config
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\bin\Debug\TextHello.exe
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\bin\Debug\TextHello.pdb
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\obj\Debug\TextHello.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\obj\Debug\TextHello.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\obj\Debug\TextHello.exe
+C:\Users\Jerome\source\repos\MSSA\TextHello\TextHello\obj\Debug\TextHello.pdb
+C:\Users\Jerome\source\repos\TextHello\TextHello\obj\Debug\TextHello.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\TextHello\TextHello\obj\Debug\TextHello.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\TextHello\TextHello\obj\Debug\TextHello.exe
+C:\Users\Jerome\source\repos\TextHello\TextHello\obj\Debug\TextHello.pdb
+C:\Users\Jerome\source\repos\TextHello\TextHello\bin\Debug\TextHello.exe.config
+C:\Users\Jerome\source\repos\TextHello\TextHello\bin\Debug\TextHello.exe
+C:\Users\Jerome\source\repos\TextHello\TextHello\bin\Debug\TextHello.pdb

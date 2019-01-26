@@ -1,0 +1,7 @@
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\bin\Debug\EATMProject.exe.config
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\bin\Debug\EATMProject.exe
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\bin\Debug\EATMProject.pdb
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\obj\Debug\EATMProject.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\obj\Debug\EATMProject.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\obj\Debug\EATMProject.exe
+C:\Users\Jerome\source\repos\PersonalProjects\EATMProject\EATMProject\obj\Debug\EATMProject.pdb
